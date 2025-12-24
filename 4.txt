@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>تواصل معنا</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h2>📞 تواصل معنا</h2>
+<p>01091845450</p>
+<p>01025722399</p>
+
+<p>نجع حمادي – قنا</p>
+
+</body>
+</html>

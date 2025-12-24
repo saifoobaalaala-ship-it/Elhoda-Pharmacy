@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head><title>Admin Login</title></head>
+<body>
+
+<h2>Admin Login</h2>
+<p>Username: admin</p>
+<p>Password: Admin@123</p>
+
+</body>
+</html>

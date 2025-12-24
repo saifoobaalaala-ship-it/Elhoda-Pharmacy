@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>الأدوية | El Hoda Pharmacy</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h2>💊 قائمة الأدوية</h2>
+<ul>
+  <li>بانادول</li>
+  <li>بروفين</li>
+  <li>كونجستال</li>
+  <li>فيتامين C</li>
+</ul>
+
+<p>* أدوية الروشتة متاحة بطلب روشتة فقط</p>
+<a href="prescription.html" class="btn">ارفع روشتة</a>
+
+</body>
+</html>

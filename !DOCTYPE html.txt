@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>صيدلية الهدى | El Hoda Pharmacy</title>
+<link rel="stylesheet" href="css/style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<header>
+  <img src="assets/logo.png" class="logo">
+  <h1>صيدلية الهدى</h1>
+  <h3>El Hoda Pharmacy</h3>
+  <p>بإدارة د/ محمود عبد الرحيم – Since 1990</p>
+  <p>⏰ نعمل 24 ساعة | 🚚 دليفري لكل مصر</p>
+  <a class="btn" href="https://wa.me/201091845450">واتساب</a>
+  <a class="btn" href="tel:01091845450">اتصال</a>
+</header>
+
+<nav>
+  <a href="index.html">الرئيسية</a>
+  <a href="shop.html">الأدوية</a>
+  <a href="prescription.html">رفع روشتة</a>
+  <a href="contact.html">تواصل معنا</a>
+</nav>
+
+<section>
+  <h2>📍 العنوان</h2>
+  <p>نجع حمادي – قنا – أسفل برج التبيقيين</p>
+</section>
+
+<footer>
+  <p>© 2025 El Hoda Pharmacy</p>
+</footer>
+
+</body>
+</html>

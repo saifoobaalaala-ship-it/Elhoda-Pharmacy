@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>رفع روشتة</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h2>📄 رفع الروشتة</h2>
+<form>
+  <input type="text" placeholder="الاسم">
+  <input type="file">
+  <button class="btn">إرسال</button>
+</form>
+
+<p>سيتم التواصل معك فورًا</p>
+
+</body>
+</html>

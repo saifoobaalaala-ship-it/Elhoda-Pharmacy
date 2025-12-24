@@ -1,0 +1,29 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #f9f9f9;
+}
+
+header {
+  background: #0a7d5f;
+  color: white;
+  padding: 20px;
+}
+
+.logo {
+  width: 100px;
+}
+
+nav a {
+  margin: 10px;
+  text-decoration: none;
+  color: #0a7d5f;
+}
+
+.btn {
+  background: #0a7d5f;
+  color: white;
+  padding: 10px;
+  display: inline-block;
+  margin: 5px;
+}
